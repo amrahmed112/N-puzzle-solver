@@ -1,0 +1,13 @@
+C:\Users\Amr\source\repos\N-Puzzle\N-Puzzle\obj\Debug\N-Puzzle.csprojAssemblyReference.cache
+C:\Users\Amr\source\repos\N-Puzzle\N-Puzzle\bin\Debug\N-Puzzle.exe.config
+C:\Users\Amr\source\repos\N-Puzzle\N-Puzzle\bin\Debug\N-Puzzle.exe
+C:\Users\Amr\source\repos\N-Puzzle\N-Puzzle\bin\Debug\N-Puzzle.pdb
+C:\Users\Amr\source\repos\N-Puzzle\N-Puzzle\obj\Debug\N-Puzzle.exe
+C:\Users\Amr\source\repos\N-Puzzle\N-Puzzle\obj\Debug\N-Puzzle.pdb
+D:\Users\Amr\source\repos\N-Puzzle\N-Puzzle\bin\Debug\N-Puzzle.exe.config
+D:\Users\Amr\source\repos\N-Puzzle\N-Puzzle\bin\Debug\N-Puzzle.exe
+D:\Users\Amr\source\repos\N-Puzzle\N-Puzzle\bin\Debug\N-Puzzle.pdb
+D:\Users\Amr\source\repos\N-Puzzle\N-Puzzle\obj\Debug\N-Puzzle.csprojAssemblyReference.cache
+D:\Users\Amr\source\repos\N-Puzzle\N-Puzzle\obj\Debug\N-Puzzle.csproj.CoreCompileInputs.cache
+D:\Users\Amr\source\repos\N-Puzzle\N-Puzzle\obj\Debug\N-Puzzle.exe
+D:\Users\Amr\source\repos\N-Puzzle\N-Puzzle\obj\Debug\N-Puzzle.pdb

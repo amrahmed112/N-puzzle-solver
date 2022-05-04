@@ -1,0 +1,14 @@
+C:\Users\Amr\source\repos\N-Puzzle\N-Puzzle\bin\Release\N-Puzzle.exe.config
+C:\Users\Amr\source\repos\N-Puzzle\N-Puzzle\bin\Release\N-Puzzle.exe
+C:\Users\Amr\source\repos\N-Puzzle\N-Puzzle\bin\Release\N-Puzzle.pdb
+C:\Users\Amr\source\repos\N-Puzzle\N-Puzzle\obj\Release\N-Puzzle.csprojAssemblyReference.cache
+C:\Users\Amr\source\repos\N-Puzzle\N-Puzzle\obj\Release\N-Puzzle.exe
+C:\Users\Amr\source\repos\N-Puzzle\N-Puzzle\obj\Release\N-Puzzle.pdb
+C:\Users\Amr\source\repos\N-Puzzle\N-Puzzle\obj\Release\N-Puzzle.csproj.CoreCompileInputs.cache
+D:\Users\Amr\source\repos\N-Puzzle\N-Puzzle\bin\Release\N-Puzzle.exe.config
+D:\Users\Amr\source\repos\N-Puzzle\N-Puzzle\bin\Release\N-Puzzle.exe
+D:\Users\Amr\source\repos\N-Puzzle\N-Puzzle\bin\Release\N-Puzzle.pdb
+D:\Users\Amr\source\repos\N-Puzzle\N-Puzzle\obj\Release\N-Puzzle.csprojAssemblyReference.cache
+D:\Users\Amr\source\repos\N-Puzzle\N-Puzzle\obj\Release\N-Puzzle.csproj.CoreCompileInputs.cache
+D:\Users\Amr\source\repos\N-Puzzle\N-Puzzle\obj\Release\N-Puzzle.exe
+D:\Users\Amr\source\repos\N-Puzzle\N-Puzzle\obj\Release\N-Puzzle.pdb
